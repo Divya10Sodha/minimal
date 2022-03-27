@@ -10,4 +10,4 @@ Here, we have to visualize the damaged parts of car, given in the form of metada
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Divya10Sodha/CarScan_Assign-1)
 
-<center><img src="images/carScan.jpg"/></center>
+<center><img src="assests/img/carScan.jpg"/></center>
